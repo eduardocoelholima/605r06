@@ -51,8 +51,8 @@ Task: code class SplitableList which implement interface Splitable and inherit
 
 ### Interfaces vs Abstract Classes
 
-https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html
-https://cs.rit.edu/~hpb/Lectures/2201/605/605-127.html
+- https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html
+- https://cs.rit.edu/~hpb/Lectures/2201/605/605-127.html
 
 ### HW5.3
 
